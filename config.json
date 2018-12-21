@@ -1,0 +1,14 @@
+{
+  "session": {
+    "authToken": null,
+    "serverId": null,
+    "channelId": null,
+    "userAgent": null,
+    "proxy": null
+  },
+  "snapshot": null,
+  "limit": -1,
+  "output": {
+    "text": "channel.txt"
+  }
+}
